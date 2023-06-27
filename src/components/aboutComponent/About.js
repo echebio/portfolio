@@ -16,7 +16,7 @@ function About() {
 
       <div className="about__content">
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
-          Hi! I am Anaeto Christopher Echezona, a creative and innovation software developer  who is passionate in developing and maintaining quality websites and application that can be beneficial to people. I specialize in turning functional user interface design into real life products with exceptional user experience.
+          I am Anaeto Echezona Christopher, a creative and innovation software developer  who is passionate in developing and maintaining quality websites and application that can be beneficial to people. I specialize in turning functional user interface design into real life products with exceptional user experience.
         </p>
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
           I have learnt and used among others, the following tools, and technologies:
@@ -32,7 +32,7 @@ function About() {
           <li>Git/Github</li>
         </ul>
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
-          In addition to the above, I am open to learning other interesting technologies as per requirement.
+          In addition to the above, I am open to learn more other technologies as per requirement.
         </p>
       </div>
     </section>
