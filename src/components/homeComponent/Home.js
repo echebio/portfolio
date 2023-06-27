@@ -22,7 +22,7 @@ function Home() {
           <h1 className="header_text" data-aos="fade-right" data-aos-once="true">
             <span className="special__letter">A</span>NA<span className="special__letter">E</span>TO EC<span className="special__letter">HE</span>ZO<span className="special__letter">Na</span>
           </h1>
-          <p className="hero_text" data-aos="fade-left" data-aos-once="true">I’m a creative and innovative software developer who is passionate in developing and maintaining quality websites and software App that solves problem..
+          <p className="hero_text" data-aos="fade-left" data-aos-once="true">I’m a creative and innovative software developer who is passionate in developing and maintaining quality websites and software App that solves problem.
           </p>
           <div className="hero__btn" data-aos="fade-up" data-aos-once="true">
             <a href="#projects"className="btn btn-pry" aria-label="see my projects">See my work</a>
