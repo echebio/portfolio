@@ -22,7 +22,6 @@ function Project({ project }) {
         <p className="project__desc" data-aos="fade-up">{project.description}</p>
         <div className="project__links" data-aos="fade-down">
           <a className="project__btn" href={project.url}>Live Demo</a>
-          <a className="project__btn" href={project.github}>View Code</a>
         </div>
       </div>
     </div>

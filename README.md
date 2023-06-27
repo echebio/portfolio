@@ -1,6 +1,5 @@
 # Personal Website
 
-[https://nwosaemeka.netlify.app/](https://nwosaemeka.netlify.app/)
 
 ## Description
 

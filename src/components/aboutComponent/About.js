@@ -16,7 +16,7 @@ function About() {
 
       <div className="about__content">
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
-          Hi! I am Emeka Afamefuna Nwosa, a creative software developer based in Kuala Lumpur Malaysia who is passionate about creating websites and applications that can be beneficial to people. I specialize in turning functional user interface design into real life products with exceptional user experience.
+          Hi! I am Anaeto Christopher Echezona, a creative software developer based in Kuala Lumpur Malaysia who is passionate about creating websites and applications that can be beneficial to people. I specialize in turning functional user interface design into real life products with exceptional user experience.
         </p>
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
           Currently, I am a computer science senior at University Putra Malaysia (UPM) majoring in computer networks and communication. My journey as a software developer started in 2018 after taking a course on web development. Since then, I have been learning continuously and improving my skills. 

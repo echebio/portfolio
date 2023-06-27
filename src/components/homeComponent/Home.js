@@ -17,10 +17,10 @@ function Home() {
     <section className="hero__page"id="home">
       <div className="hero__content">
           <p className="welcome_para">
-            Hi There <span role="img" aria-label="waving hand">✋</span>, I'm
+            Hi There, I'm
           </p>
           <h1 className="header_text" data-aos="fade-right" data-aos-once="true">
-            <span className="special__letter">N</span>wo<span className="special__letter">s</span>a E<span className="special__letter">m</span>ek<span className="special__letter">a</span>
+            <span className="special__letter">A</span>NA<span className="special__letter">E</span>TO EC<span className="special__letter">HE</span>ZO<span className="special__letter">Na</span>
           </h1>
           <p className="hero_text" data-aos="fade-left" data-aos-once="true">I’m a creative software developer based in Kuala Lumpur Malaysia who is passionate about building exceptional websites and applications that solves problems.
           </p>

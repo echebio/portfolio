@@ -5,33 +5,21 @@
         "title": "TnG Digital Clone",
         "description": "This is a clone of the official Tng Digital landing page built with HTML, CSS, and Vanilla JavaScript. The landpage is fully reponsive, accessible, dynamic, and Progressive Web App (PWA) enabled to improve performance and user experience",
         "image": "/asset/tng-clone.jpg",
-        "url": "https://tngdigital-clone.netlify.app/",
-        "github":"https://github.com/NwosaEmeka/TnGdigital"
+        "url": "https://tngdigital-clone.netlify.app/"
       },
       {
         "id":2,
         "title": "GafferJersey Shop",
         "description": "A football jersey e-commerce store built with ReactJs (React Hooks), Firebase for user authentication and database management, Stripe for payment handling and hosted on Heroku.",
         "image": "/asset/gafferJersey.jpg",
-        "url": "https://gaffer-jersey.herokuapp.com/",
-        "github": "https://github.com/NwosaEmeka/gaffer-jersey-shop"
+        "url": "https://gaffer-jersey.herokuapp.com/"
       },
       {
         "id":3,
         "title": "Kadar Exchange",
         "description": "This is a real-time currency exchnage rate webpage built with ReactJs and ExchangeRate-API.",
         "image": "/asset/kadar.jpg",
-        "url": "https://kadar-exchange.netlify.app/",
-        "github": "https://github.com/NwosaEmeka/React-exchange-rate"
-      },
-      {
-        "id": 4,
-        "title": "Personal Portfolio",
-        "description": "A fully responsive, accessible personal website built with ReactJS and hosted on netlify.",
-        "image": "/asset/portfolio.jpg",
-        "url": "https://nwosaemeka.netlify.app/",
-        "github": "https://github.com/NwosaEmeka/my-portfolio"
-        
+        "url": "https://kadar-exchange.netlify.app/"
       }
     ]
   }
