@@ -32,7 +32,7 @@ function About() {
           <li>Git/Github</li>
         </ul>
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
-          In addition to the above, I am open to learn more other technologies as per requirement.
+          In addition to the above, I am open to learn other technologies as per requirement.
         </p>
       </div>
     </section>
