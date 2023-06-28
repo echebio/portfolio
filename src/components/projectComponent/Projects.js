@@ -19,7 +19,7 @@ function Projects() {
             <div className="project__content">
               <a href="https://tngdigital-clone.netlify.app/" className="project__image col">
                 <div className="image" data-aos="zoom-out">
-                  <img src="/asset/tng-clone.jpg" alt="TnG Digital Clone" loading="lazy" />
+                  <img src="/images/tng-clone.jpg" alt="TnG Digital Clone" loading="lazy" />
                 </div>
               </a>
               <div className="project__text-content col">
@@ -35,7 +35,7 @@ function Projects() {
             <div className="project__content">
               <a href="https://gaffer-jersey.herokuapp.com/" className="project__image col">
                 <div className="image" data-aos="zoom-out">
-                  <img src="/asset/gafferJersey.jpg" alt="GafferJersey Shop" loading="lazy" />
+                  <img src="/images/gafferJersey.jpg" alt="GafferJersey Shop" loading="lazy" />
                 </div>
               </a>
               <div className="project__text-content col">
@@ -51,7 +51,7 @@ function Projects() {
             <div className="project__content">
               <a href="https://kadar-exchange.netlify.app/" className="project__image col">
                 <div className="image" data-aos="zoom-out">
-                  <img src="/images/logo1.png" alt="Kadar Exchange" loading="lazy" />
+                  <img src="/images/kadar.jpg" alt="Kadar Exchange" loading="lazy" />
                 </div>
               </a>
               <div className="project__text-content col">
