@@ -37,7 +37,7 @@ function Header() {
      <header className={scrollState? "header dark__background": "header"}>
       <div className="logo">
         <a href="/">
-          <img src="/images/logo1.png" alt="logo" className="logo-image"></img>
+          <img src="/images/logo3.png" alt="logo" className="logo-image"></img>
         </a>
       </div>
       <nav className="nav__bar">

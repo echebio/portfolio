@@ -16,7 +16,7 @@ function About() {
 
       <div className="about__content">
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
-          I am Anaeto Echezona Christopher, a creative and innovation software developer  who is passionate in developing and maintaining quality websites and application that can be beneficial to people. I specialize in turning functional user interface design into real life products with exceptional user experience.
+          I am Anaeto Echezona Christopher, Founder Chezon Technologies Ltd, a creative and innovation software developer  who is passionate in developing and maintaining quality websites and application that can be beneficial to people. I specialize in turning functional user interface design into real life products with exceptional user experience.
         </p>
         <p className="about__text" data-aos="fade-up" data-aos-once="true">
           I have learnt and used among others, the following tools, and technologies:

@@ -24,7 +24,7 @@
 	letter-spacing: 1.2px;
 }
 .special__letter {
-	color: #66bd90;
+	color: var(--pry--clr);
 }
 .hero_text {
 	font-size: 1.2rem;
