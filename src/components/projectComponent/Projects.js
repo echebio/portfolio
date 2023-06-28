@@ -51,7 +51,7 @@ function Projects() {
             <div className="project__content">
               <a href="https://kadar-exchange.netlify.app/" className="project__image col">
                 <div className="image" data-aos="zoom-out">
-                  <img src="/asset/kadar.jpg" alt="Kadar Exchange" loading="lazy" />
+                  <img src="/images/logo1.png" alt="Kadar Exchange" loading="lazy" />
                 </div>
               </a>
               <div className="project__text-content col">
